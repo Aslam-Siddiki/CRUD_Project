@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+    color: maroon;
+    text-decoration: underline;
+    margin: 2rem;
+}
+
+.agroup{
+    height: 15rem;
+    width: 50%;
+    background-color: azure;
+    border: 2px solid black;
+    border-radius: 1rem;
+
+    margin: 0 auto;
+    margin-top: 3rem;
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+}
+
+.display{
+    background-color:  #007BFF;
+    height: 2.5rem;
+    width: 8rem;
+    border:none;
+    border-radius: 8px;
+    color: azure;
+}
+
+.create{
+    background-color:  #28A745;
+    height: 2.5rem;
+    width: 8rem;
+    border: none;
+    border-radius: 8px;
+    color: azure;
+}
+
+.create:hover{
+    background-color: #218838;
+}
+
+.search{
+    background-color:  #007BFF;
+    height: 2.5rem;
+    width: 8rem;
+    border: 2px solid black;
+    border-radius: 8px;
+    color: azure;
+}

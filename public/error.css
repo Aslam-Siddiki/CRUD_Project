@@ -1,0 +1,22 @@
+div{
+    height: 15rem;
+    width: 15rem;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: brown;
+    color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15rem;
+    font-weight: 700;
+}
+
+a{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,60 @@
+h1{
+    color: maroon;
+    text-align: center;
+}
+
+.post{
+    height: auto;
+    width: 30rem;
+    background-color: blanchedalmond;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.user{
+    font-style: italic;
+}
+
+button{
+    height: 2rem;
+    width: 8rem;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 2rem;
+}
+
+span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+a{
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    margin: 0 0 0  2rem;
+}
+
+
+.edit{
+    margin: 0 0 0.25rem 4rem;
+}
+
+.del{
+    border: none;
+    height: 2rem;
+    width: 6rem;
+    background-color: #dc3545;
+    margin: 0 0 0.25rem 4rem;
+}
+
+.del:hover {
+  background-color: #c9302c;
+}

@@ -1,0 +1,52 @@
+
+h1{
+  color: maroon;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.post{
+  background-color: blanchedalmond;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 10px;
+
+  display: block;
+  justify-content: center;  
+  align-items: center;       
+  text-align: center;
+}
+
+.user{
+  font-style: italic;
+  
+}
+
+a{
+  margin-top: 2rem;
+}
+
+button{
+  height: 2rem;
+  width: 8rem;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 1rem;
+
+}
+
+.gBtn{
+  height: 2rem;
+  width: 6rem;
+  margin-right: 2rem;
+  background-color: #4682B4;
+}
+
+span{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 2rem;
+}
