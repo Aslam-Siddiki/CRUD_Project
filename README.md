@@ -26,6 +26,4 @@ It allows users to manage posts with a clean and simple UI.
 
 ---
 Made with ❤️ by Aslam
-Connect with me on www.linkedin.com/in/aslam-siddiki-42646b330
-
-
+Connect with me on www.linkedin.com/in/aslam-siddiki-9913ba332
